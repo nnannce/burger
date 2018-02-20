@@ -22,4 +22,4 @@ Go to your browser and type http://localhost:3000/ into the address bar to bring
 
 
 ## APP
-![burger](https://user-images.githubusercontent.com/30881941/36404803-9e458b8e-15b2-11e8-86bd-dd5c12c76643.jpg)
+![screen shot 2018-02-19 at 8 20 56 pm](https://user-images.githubusercontent.com/30881941/36404856-ef79d3ac-15b2-11e8-87d9-0c5f4486e4c4.png)
