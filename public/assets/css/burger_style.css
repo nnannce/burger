@@ -1,0 +1,37 @@
+body {
+	/*background-color: #e9d36b;*/
+	font-family: 'Oswald', sans-serif;
+	background-image: url("burger.jpg");
+	font-size: 25px;
+
+}
+
+/*.container {
+	margin-top: 50px;
+}
+*/
+h1 {
+	border-top: 10px;
+	color: white;
+}
+
+.list-group-item {
+	background-color: #f1f1ed;
+
+}
+
+h4 {
+	color: white;
+}
+
+
+
+#bg {
+  position: fixed; 
+  top: 0; 
+  left: 0; 
+  min-width: 100%;
+  min-height: 100%;
+}
+
+
